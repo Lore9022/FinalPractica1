@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 15vh;
+    color: #DE8D8A;
+    font-size: 6em;
+    background-color: blanchedalmond;
+}
+
+.menuSuperior {
+    list-style: none;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.menuSuperior li {
+    display: inline-block;
+    padding: 1.2rem;
+    font-weight: 600;
+    padding-left: 1rem;
+}
+
+.menuSuperior label {
+    /*BUSCAR*/
+    font-weight: 600;
+    color: #DE8D8A;
+    font-size: 0.5cm;
+    margin-right: 1rem;
+}
+
+.menuSuperior a {
+    text-decoration: none;
+    color: #DE8D8A;
+    font-size: 0.5cm;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 3rem;
+    padding-top: 5rem;
+}
+
+h3 {
+    text-align: center;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.footer {
+    display: flex;
+    border-width: 0.05cm;
+    background-color: blanchedalmond;
+}
+
+.footer p {
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+}
+
+.contacto {
+    text-align: left;
+    padding: 4rem;
+}
+
+    
